@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hamza Dildar</h1>
+<h3 align="center">A 🔥 flutter developer from Pakistan 🌟</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzadildar" alt="hamzadildar" /> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning more about Flutter
@@ -13,3 +15,4 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamzadildar&layout=compact)](https://github.com/hamzadildar/github-readme-stats)
+
