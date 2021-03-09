@@ -2,7 +2,7 @@
 <h3 align="center">A 🔥 flutter developer from Pakistan 🌟</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzadildar" alt="hamzadildar" /> </p>
 
-- 🔭 I’m currently working on [NextByte Solutions](https://nextbytesolutions.com/)
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning more about Flutter
 - 👯 I’m looking to collaborate on Reputed company
 - 🤔 I’m looking for help with ...
